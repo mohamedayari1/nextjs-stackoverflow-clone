@@ -10,6 +10,7 @@
     "lint:fix": "next lint --fix"
   },
   "dependencies": {
+    "@clerk/nextjs": "^6.25.4",
     "@tailwindcss/typography": "^0.5.16",
     "next": "15.4.1",
     "react": "19.1.0",
